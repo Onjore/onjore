@@ -1,6 +1,16 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_home">Home</string>
 
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="txtfirstame">firstname</string>
+    <string name="txtlastname">lastname</string>
+    <string name = "txtemail">email</string>
+    <string name ="txtphonenumber">phonenumber</string>
+    <string name ="txtpassword">password</string>
+    <string name = "txtusername">username</string>
+   <string name ="txtuserpassword">password</string>
+
+
 </resources>
